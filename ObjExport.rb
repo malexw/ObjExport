@@ -4,7 +4,7 @@
 # Exports a Google SketchUp drawing to an OBJ format file. Includes support for materials.
 # Output file is optimized for file size.
 #
-# Copyright Alex Williams 2009
+# Alex Williams
 # http://blinkenlights.ca
 
 class Array
